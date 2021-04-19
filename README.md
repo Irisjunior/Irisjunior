@@ -2,17 +2,14 @@
 
 ### Bem vindo(a) ao meu repositório!! Devo informar que ainda está em construção, porém posso lhe dar alguns spoilers... ###
 ---
-### 🌱 Meus projetos são criados utilizando as seguintes tecnologias e Ferramentas:
+### 🌱 Meus projetos são criados utilizando as seguintes tecnologias e Ferramentas: 😊
 
-
-
-👨🏻‍💻 Front-End Developer 👨🏻‍💻  
 
 <img align="right" height="100"  src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
 
-- 🚀 Sempre Disponivel para ajudar ao proximo.   
-- ⚡ Estudante de Desenvolvimento Web.    
-- ✏️ Estudando: HTML, CSS, Javascript, React.JS e Node.JS     
+- 👽 Sempre Disponivel para ajudar ao proximo.   
+- 💨 Estudante de Desenvolvimento Web.    
+- 🎓 Estudando: HTML, CSS, Javascript, React.JS e Node.JS     
 - 💬 Sobre mim: Atualmente Curso Sistemas para web na Unicesumar,Estou em Busca de uma Oportunidade para Expandir meus Conhecimentos técnicos.
    
 
